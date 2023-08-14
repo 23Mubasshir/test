@@ -1,0 +1,12 @@
+Name: Mubasshir Rahaman Siddique Swachcha
+Skills: 
+
+Expertise : HTML, CSS, Bootstrap, Tailwind, React.js, React Bootstrap, Daisy-UI, React Router.
+
+Comfortable : JavaScript ES6, Firebase, RESTful API, SweetAlert, Dotenv, Devtool and debugging.
+
+Familiar : Next.js, Node.js, ExpressJS, MongoDB, REST API, JWT, Axios, Stripe, Tanstack Query.
+
+Tools : VS Code, Git & GitHub, Netlify, Vercel, Figma, Adobe Photoshop, Adobe Illustrator.
+
+Email: : 23mubasshir@gmail.com
