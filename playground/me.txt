@@ -1,3 +1,4 @@
+{{#user}
 Name: Mubasshir Rahaman Siddique Swachcha
 Skills: 
 
@@ -10,3 +11,4 @@ Familiar : Next.js, Node.js, ExpressJS, MongoDB, REST API, JWT, Axios, Stripe, T
 Tools : VS Code, Git & GitHub, Netlify, Vercel, Figma, Adobe Photoshop, Adobe Illustrator.
 
 Email: : 23mubasshir@gmail.com
+{{/user}}
